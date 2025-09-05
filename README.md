@@ -35,9 +35,9 @@ pH	6.5 – 8.5	—	Acidity/Basicity of water
 
 Temperature	25 – 30 °C	°C	Water temperature for aquatic life
 
-Turbidity	< 5 NTU	NTU	Water clarity
+Turbidity	< 5 NTU, NTU show how water pure or unpure 
 
-TDS	500 – 1500 ppm	ppm	Dissolved salts, minerals, impurities
+TDS	500 – 1500 ppm,	ppm	Dissolved salts, minerals, impurities
 
 
 🚀 Technologies Used
@@ -47,8 +47,6 @@ Arduino IDE (for coding & uploading)
 IoT Sensors (pH, Temperature, Turbidity, TDS)
 
 NodeMCU/Arduino Board
-
-16x2 LCD Display
 
 Web Dashboard (for visualization & alerts)
 
