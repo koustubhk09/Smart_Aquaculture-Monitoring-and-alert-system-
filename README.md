@@ -9,7 +9,7 @@ Monitors pH, Temperature, Turbidity, and TDS continuously.
 
 Real-time alerts when values go beyond safe ranges.
 
-Displays data on 16x2 LCD and a web-based dashboard.
+Displays data on a web-based dashboard.
 
 Helps reduce manual monitoring and ensures healthy aquatic conditions.
 
@@ -18,15 +18,14 @@ Helps reduce manual monitoring and ensures healthy aquatic conditions.
 
 1. Sensors (pH, Temperature, Turbidity, TDS) send analog signals to Arduino.
 
-
 2. Arduino code uses WHO water quality ranges to check if parameters are safe.
 
 ✅ Inside range → Good water quality (Green)
 
 ❌ Outside range → Poor water quality (Red alert)
 
-
 3. Data is visualized on Dashboard for easy monitoring.
+
 
 📊 WHO Water Quality Ranges
 
