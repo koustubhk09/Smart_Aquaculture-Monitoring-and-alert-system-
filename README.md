@@ -1,4 +1,4 @@
-# Smart_Aquaculture-Monitoring-and-alert-system-🌊 Smart Aquaculture Monitoring and Alert System
+🌊 Smart Aquaculture Monitoring and Alert System
 
 A real-time water quality monitoring system designed to help fish farming and aquaculture. The system uses IoT sensors connected to Arduino/NodeMCU to measure critical water parameters and provide instant alerts.
 
@@ -64,6 +64,7 @@ Improves water quality management for healthier fish growth.
 
 You can watch the demo video here:
 ▶️ Smart Aquaculture Monitoring Demo:
+https://github.com/koustubhk09/Smart_Aquaculture-Monitoring-and-alert-system-/demo.mp4
 
 
 -------------------------------------------------------------------------------------------------------------------------
