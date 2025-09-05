@@ -28,7 +28,6 @@ Helps reduce manual monitoring and ensures healthy aquatic conditions.
 
 3. Data is visualized on Dashboard for easy monitoring.
 
-
 📊 WHO Water Quality Ranges
 
 Parameter	Safe Range	Unit	Meaning
