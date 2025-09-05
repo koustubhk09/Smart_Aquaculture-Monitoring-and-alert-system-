@@ -59,6 +59,10 @@ Reduces manual work by automation.
 
 Improves water quality management for healthier fish growth.
 
+📊 Dashboard Preview
+
+https://github.com/koustubhk09/Smart_Aquaculture-Monitoring-and-alert-system-/blob/main/Dashboard.png
+
 🎥 Project Demo
 
 You can watch the demo video here:
